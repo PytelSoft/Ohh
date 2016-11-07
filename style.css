@@ -1,0 +1,42 @@
+body {
+	font-family: Verdana;
+}
+* {
+	box-sizing: border-box;
+}
+
+/*map styles*/
+.map {
+	height: 500px;
+	float: left;
+	width: 100%;
+	
+}
+header {
+	  width: 100%;
+      background-color: brown;
+	  color: pink;
+	  text-align: center;
+	  padding: 20px 0;
+	  
+}   
+.menu {
+	list-style: none;
+} 
+   .menu-item {
+	   display: inline-block;
+   }
+   .sidebar {
+	   float: left;
+	   width: 30%;
+   }
+   .content {
+	   float: right;
+	   width: 70%;
+   }
+   footer {
+	   float: left;
+	   width: 100%;
+   }
+
+/*Custom styles*/
